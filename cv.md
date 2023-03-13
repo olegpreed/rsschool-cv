@@ -1,4 +1,5 @@
-# Oleg Aroyan :magic_wand: Frontend developer
+# Oleg Aroyan | Frontend developer
+
 |that's me|contacts|
 |---|---|
 |![MyPhoto](https://i.ibb.co/5Fm1tFL/oleg.jpg) |📫skipemyspace@gmail.com<br>📱@olegaroyan<br>📍Bangkok, Thailand|
@@ -6,7 +7,8 @@
 I want to build my career in the sphere of **Frontend** \
 and to create modern and user-friendly websites and apps.
 
-## Skills :man_juggling:
+## Skills
+
 |Name|Level|
 |---|---|
 |`HTML` | :godmode::godmode::godmode::godmode::godmode:|
@@ -17,25 +19,29 @@ and to create modern and user-friendly websites and apps.
 |`Figma` | :suspect::suspect::suspect::suspect:|
 |`Photoshop` | :godmode::godmode::godmode::godmode::godmode:|
 
-## Projects :card_index_dividers:
+## Projects
 - [JavaScript Calculator](https://github.com/olegpreed/JavaScript-Calculator)
 - [Website prototypes](https://www.frontendmentor.io/profile/olegpreed)
 - [Website designs](https://disk.yandex.com/d/04zN-5Pv347QkQ)
 - [2D game](https://github.com/olegpreed/so_long)
 
-## Education :mortar_board:
+## Education
+
 |Name|Qualification|Years|
 |---|---|---|
 |School 42|Programmer|2021 - Present|
 |Moscow State University|English teacher|2019 - 2021|
-## Certificates :scroll:
+
+## Certificates
 `TKT (Teaching Knowledge Test)`
 `SKILLBOX webdesign courses`
-## Languages :tongue:
+
+## Languages
 `English(C2)`
 `Spanish(B1)`
 `Russian(Native)`
-## Code :keyboard:
+
+## Code
 Codewars challange «Does my number look big in this?»
 <table>
   <tr>
