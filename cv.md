@@ -11,13 +11,13 @@ and to create modern and user-friendly websites and apps.
 
 |Name|Level|
 |---|---|
-|`HTML` | :godmode::godmode::godmode::godmode::godmode:|
-|`CSS`  | :godmode::godmode::godmode::godmode::godmode:|
-|`Javascript`|:finnadie::finnadie::finnadie:|
-|`C` | :godmode::godmode::godmode::godmode::godmode:|
-|`Git` | :suspect::suspect::suspect::suspect:|
-|`Figma` | :suspect::suspect::suspect::suspect:|
-|`Photoshop` | :godmode::godmode::godmode::godmode::godmode:|
+|`HTML` | 🤩🤩🤩🤩🤩|
+|`CSS`  | 🤩🤩🤩🤩🤩|
+|`Javascript`|😐😐😐|
+|`C` |🙂🙂🙂🙂| 
+|`Git` | 🙂🙂🙂🙂|
+|`Figma` | 🙂🙂🙂🙂|
+|`Photoshop` | 🤩🤩🤩🤩🤩|
 
 ## Projects
 - [JavaScript Calculator](https://github.com/olegpreed/JavaScript-Calculator)
